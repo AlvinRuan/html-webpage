@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  line-height: 1.5;
+  margin-top: 0;
+  font-family: 'Amatic SC', cursive;
+  font-size: 120px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+}
+
+.a-programmer {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  positon: relative;
+  padding-top: 100px;
+}
+
+.middle-container img {
+  height: 200px;
+  width: 200px;
+  padding: 40px 0 20px 0;
+}
+
+.middle-container {}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 50px 0 50px 0;
+  line-height: 2;
+}
+
+.bottom-container a {
+  color: #11999E;
+  padding: 0 10px 0 10px;
+  text-decoration: none;
+}
+
+.bottom-container a:hover {
+  color: #EAF6F6;
+}
+
+.bottom-container p {
+  margin: 0;
+  color: white;
+  font-style: bolder;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  margin: 0 0 0 230px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin: 0 0 0 -110px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.skill-row h3 {
+  margin: 10px 0 50px 0;
+  padding-top: 50px;
+}
+
+.computer-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.fingers-img {
+  float: right;
+  margin-right: 30px;
+}
+
+hr {
+  border-style: none;
+  border-bottom: 10px dotted #EAF6F6;
+  width: 10%;
+}
+
+.testbutton {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #FFFFFF !important;
+  font-size: 25px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 0px #FFFFFF;
+  padding: 12px 27px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #11CDD4;
+  margin-top: 1000px;
+}
+.testbutton:hover {
+  color: white !important;
+  background: #468CCF;
+}
